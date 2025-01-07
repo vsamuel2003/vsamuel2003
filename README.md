@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vsamuel2003
-- 👀 I’m interested in Machine Learning and Robotics
+- 👀 I’m interested in Machine Learning and NLP
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on OpenSource projects in Machine Learning
 - 📫 How to reach me vsamuel@andrew.cmu.edu
